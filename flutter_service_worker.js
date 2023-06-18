@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "ffbba46d7efcc2a35a8ab65b93e306df",
-"/": "ffbba46d7efcc2a35a8ab65b93e306df",
+const RESOURCES = {"index.html": "5ae708e41d4b3f648b7753bc9fa4449d",
+"/": "5ae708e41d4b3f648b7753bc9fa4449d",
 "assets/assets/lottie_dot_loading.json": "8de7008b30448f8056c5e8a185f3cccd",
 "assets/assets/movie_lottie.json": "bc5d09325446377cd75ca92cadf61a14",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
@@ -27,7 +27,7 @@ const RESOURCES = {"index.html": "ffbba46d7efcc2a35a8ab65b93e306df",
 "canvaskit/chromium/canvaskit.wasm": "fc18c3010856029414b70cae1afc5cd9",
 "canvaskit/chromium/canvaskit.js": "8c8392ce4a4364cbb240aa09b5652e05",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "fd5306d6fe803a9429f80b6eba567a54",
+"main.dart.js": "2118a9168dc2214f50337053ba86d551",
 "flutter.js": "6fef97aeca90b426343ba6c5c9dc5d4a",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1"};
