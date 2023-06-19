@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"index.html": "5ae708e41d4b3f648b7753bc9fa4449d",
-"/": "5ae708e41d4b3f648b7753bc9fa4449d",
+const RESOURCES = {"index.html": "1885a118968b0ff1cae3f816815bf45d",
+"/": "1885a118968b0ff1cae3f816815bf45d",
 "assets/assets/lottie_dot_loading.json": "8de7008b30448f8056c5e8a185f3cccd",
 "assets/assets/movie_lottie.json": "bc5d09325446377cd75ca92cadf61a14",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
